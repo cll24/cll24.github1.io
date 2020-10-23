@@ -14,17 +14,13 @@ I am interested in **Cloud computing, Edge computing, Distribute system and Mach
 
 ## News and events
 
-This area will be used to show my latest research and learning materia.
-
-TBD.
+April. Our paper "IoT Microservice Deployment in Edge-cloud Hybrid Environment Using Reinforcement Learning" has been accepted by IEEE Internete of Things Journal, IoTJ for short.(ESI CS, JCR rank 1)
 
 
+Sept. Our paper "ADST: An Adaptive Mechanism for Dynamically Collaborating Service Deployment and Task Scheduling in Edge Environment" has been submitted to 《计算机学报》
 
-## Publications
 
-This area will be used to list my publications.
 
-TBD.
 
 ## Others
 
