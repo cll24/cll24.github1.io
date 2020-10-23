@@ -26,4 +26,4 @@ Sept. Our paper "ADST: An Adaptive Mechanism for Dynamically Collaborating Servi
 
 TBD.
 
-{{ site.time | date_to_xmlschema }}
+{{ site.time | date_to_string }}
